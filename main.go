@@ -17,5 +17,5 @@ func main() {
 	//QueryBlockInfoAt()
 	//transfer()
 	//DeployCounter()
-	InteractWithCounter()
+	//InteractWithCounter()
 }
